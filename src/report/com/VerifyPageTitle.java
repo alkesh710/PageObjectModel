@@ -11,7 +11,7 @@ import com.relevantcodes.extentreports.LogStatus;
 
 public class VerifyPageTitle {
 	
-	String url="http://learn-automation.com";
+	String url="http:www.facebook.com";
 	
 	@Test
 	public void verifyTitle()
